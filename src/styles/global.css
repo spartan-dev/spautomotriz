@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+paleta de colores
+--charleston-green: #141e23;
+--yellow-green: #8cc63f;
+--xanadu: #6e8282;
+--cultured: #eef0f2;
+--maximum-red: #dd1c1a;
+*/
