@@ -10,8 +10,8 @@ const NavBar = () => {
     pt-8 pr-8 pb-14 pl-14 h-screen w-72 fixed top-0 right-0 z-40 overflow-x-hidden overflow-y-auto
      ${
        open
-         ? "transition-all duration-300 ease-in-out translate-x-full"
-         : "transition-all duration-300 ease-in-out  translate-x-0"
+         ? "translate-x-full transition ease-in-out duration-300  "
+         : "translate-x-0 transition ease-in-out duration-300   "
      }`}
     >
       <div className="">
